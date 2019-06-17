@@ -1,2 +1,2 @@
 # angularjs-cli
-Project Generator for angularjs
+Project/Module Generator for angularjs
